@@ -1,2 +1,2 @@
-# tec-12-12-12-LED-CUBE
+# tec-12CUBE
 
